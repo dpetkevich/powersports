@@ -1,4 +1,4 @@
-#vehiclePrice {
+#vehiclePrice > input#appendedInput {
 	width: 180px;
 }
 

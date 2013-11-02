@@ -1,0 +1,15 @@
+#vehiclePrice {
+	width: 180px;
+}
+
+.lenderOption {
+	display: none;
+}
+
+.lenderLogo {
+	max-width: 250px;
+}
+
+.address {
+	margin-top: 5px;
+}
